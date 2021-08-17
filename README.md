@@ -1,2 +1,0 @@
-# Lessons
-Stage A submission
